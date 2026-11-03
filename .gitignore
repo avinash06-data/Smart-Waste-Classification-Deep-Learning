@@ -1,0 +1,7 @@
+waste_env/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.streamlit/secrets.toml
+dataset/
